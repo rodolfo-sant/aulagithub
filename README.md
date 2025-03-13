@@ -1,2 +1,2 @@
 # aulagithub
-contem informações sobre aula de nisston de github
+contem informações sobre aula de github
